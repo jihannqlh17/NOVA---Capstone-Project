@@ -1,0 +1,556 @@
+ingr_name,ingr_id,cal/g,fat(g),carb(g),protein(g),calorie_density_category,macro_dominant
+cottage cheese,ingr_0000000001,0.98,0.043,0.034,0.11,Rendah (<1 kkal/g),Protein
+strawberries,ingr_0000000002,0.33,0.003,0.08,0.007,Rendah (<1 kkal/g),Karbohidrat
+garden salad,ingr_0000000003,0.646,0.034,0.032,0.061,Rendah (<1 kkal/g),Protein
+bacon,ingr_0000000004,5.41,0.42,0.014,0.37,Tinggi (3-6 kkal/g),Lemak
+potatoes,ingr_0000000005,0.77,0.001,0.17,0.02,Rendah (<1 kkal/g),Karbohidrat
+caesar salad,ingr_0000000006,0.44,0.021,0.043,0.032,Rendah (<1 kkal/g),Karbohidrat
+cauliflower,ingr_0000000007,0.25,0.003,0.05,0.018,Rendah (<1 kkal/g),Karbohidrat
+scrambled eggs,ingr_0000000008,1.48,0.11,0.016,0.1,Sedang (1-3 kkal/g),Lemak
+wild rice,ingr_0000000009,1.19,0.004,0.25,0.05,Sedang (1-3 kkal/g),Karbohidrat
+steak,ingr_0000000010,2.71,0.19,0.0,0.25,Sedang (1-3 kkal/g),Protein
+cheese pizza,ingr_0000000011,2.659,0.094,0.335,0.112,Sedang (1-3 kkal/g),Karbohidrat
+olives,ingr_0000000012,1.15,0.107,0.063,0.008,Sedang (1-3 kkal/g),Lemak
+berries,ingr_0000000013,0.57,0.003,0.14,0.007,Rendah (<1 kkal/g),Karbohidrat
+asparagus,ingr_0000000014,0.204,0.001,0.039,0.022,Rendah (<1 kkal/g),Karbohidrat
+hash browns,ingr_0000000015,3.26,0.22,0.32,0.026,Tinggi (3-6 kkal/g),Karbohidrat
+brussels sprouts,ingr_0000000016,0.43,0.003,0.09,0.034,Rendah (<1 kkal/g),Karbohidrat
+pasta salad,ingr_0000000017,2.015,0.119,0.173,0.059,Sedang (1-3 kkal/g),Karbohidrat
+turkey,ingr_0000000018,1.89,0.07,0.001,0.29,Sedang (1-3 kkal/g),Protein
+bread,ingr_0000000019,2.654,0.042,0.423,0.135,Sedang (1-3 kkal/g),Karbohidrat
+duck,ingr_0000000020,3.37,0.28,0.0,0.19,Tinggi (3-6 kkal/g),Lemak
+squash,ingr_0000000021,0.205,0.003,0.034,0.009,Rendah (<1 kkal/g),Karbohidrat
+guacamole,ingr_0000000022,2.0,0.171,0.086,0.029,Sedang (1-3 kkal/g),Lemak
+brown rice,ingr_0000000023,1.11,0.009,0.23,0.026,Sedang (1-3 kkal/g),Karbohidrat
+artic char,ingr_0000000024,1.54,0.081,0.0,0.2,Sedang (1-3 kkal/g),Protein
+beef,ingr_0000000025,2.5,0.15,0.0,0.26,Sedang (1-3 kkal/g),Protein
+white rice,ingr_0000000026,1.3,0.003,0.28,0.027,Sedang (1-3 kkal/g),Karbohidrat
+broccoli,ingr_0000000027,0.35,0.004,0.07,0.024,Rendah (<1 kkal/g),Karbohidrat
+chicken,ingr_0000000028,1.65,0.036,0.0,0.31,Sedang (1-3 kkal/g),Protein
+mixed greens,ingr_0000000029,0.28,0.004,0.053,0.022,Rendah (<1 kkal/g),Karbohidrat
+lettuce,ingr_0000000030,0.15,0.002,0.029,0.014,Rendah (<1 kkal/g),Karbohidrat
+cucumbers,ingr_0000000031,0.1,0.0,0.02,0.01,Rendah (<1 kkal/g),Karbohidrat
+tomatoes,ingr_0000000032,0.34,0.007,0.068,0.007,Rendah (<1 kkal/g),Karbohidrat
+bell peppers,ingr_0000000033,0.4,0.002,0.09,0.02,Rendah (<1 kkal/g),Karbohidrat
+celery,ingr_0000000034,0.16,0.002,0.034,0.007,Rendah (<1 kkal/g),Karbohidrat
+blue cheese,ingr_0000000035,3.53,0.29,0.023,0.21,Tinggi (3-6 kkal/g),Lemak
+spinach (raw),ingr_0000000036,0.23,0.004,0.036,0.029,Rendah (<1 kkal/g),Karbohidrat
+cantaloupe,ingr_0000000037,0.34,0.002,0.08,0.008,Rendah (<1 kkal/g),Karbohidrat
+pineapple,ingr_0000000038,0.5,0.001,0.13,0.005,Rendah (<1 kkal/g),Karbohidrat
+sausage,ingr_0000000039,3.446,0.273,0.042,0.193,Tinggi (3-6 kkal/g),Lemak
+raspberries,ingr_0000000040,0.53,0.007,0.12,0.012,Rendah (<1 kkal/g),Karbohidrat
+blackberries,ingr_0000000041,0.43,0.005,0.092,0.014,Rendah (<1 kkal/g),Karbohidrat
+avocado,ingr_0000000042,1.6,0.15,0.09,0.02,Sedang (1-3 kkal/g),Lemak
+green beans,ingr_0000000043,0.31,0.001,0.07,0.018,Rendah (<1 kkal/g),Karbohidrat
+bean sprouts,ingr_0000000044,0.3,0.002,0.059,0.03,Rendah (<1 kkal/g),Karbohidrat
+carrot,ingr_0000000045,0.41,0.002,0.1,0.009,Rendah (<1 kkal/g),Karbohidrat
+mushroom,ingr_0000000046,0.22,0.003,0.033,0.031,Rendah (<1 kkal/g),Karbohidrat
+corn,ingr_0000000047,0.96,0.015,0.21,0.034,Rendah (<1 kkal/g),Karbohidrat
+ham,ingr_0000000048,1.45,0.06,0.015,0.21,Sedang (1-3 kkal/g),Protein
+fish,ingr_0000000049,0.9,0.13,0.0,0.184,Rendah (<1 kkal/g),Protein
+tofu,ingr_0000000050,0.73,0.048,0.019,0.08,Rendah (<1 kkal/g),Protein
+shrimp,ingr_0000000051,0.99,0.003,0.002,0.24,Rendah (<1 kkal/g),Protein
+cheese,ingr_0000000052,4.02,0.33,0.013,0.25,Tinggi (3-6 kkal/g),Lemak
+nuts,ingr_0000000053,6.07,0.54,0.21,0.2,Sangat Tinggi (>6 kkal/g),Lemak
+apple,ingr_0000000054,0.52,0.002,0.14,0.003,Rendah (<1 kkal/g),Karbohidrat
+banana,ingr_0000000055,0.89,0.003,0.23,0.011,Rendah (<1 kkal/g),Karbohidrat
+kiwi,ingr_0000000056,0.61,0.005,0.15,0.011,Rendah (<1 kkal/g),Karbohidrat
+lemon,ingr_0000000057,0.29,0.003,0.09,0.011,Rendah (<1 kkal/g),Karbohidrat
+orange,ingr_0000000058,0.47,0.001,0.12,0.009,Rendah (<1 kkal/g),Karbohidrat
+oatmeal,ingr_0000000059,0.68,0.014,0.12,0.024,Rendah (<1 kkal/g),Karbohidrat
+tortilla,ingr_0000000060,2.18,0.029,0.45,0.06,Sedang (1-3 kkal/g),Karbohidrat
+potato chips,ingr_0000000061,5.36,0.35,0.53,0.07,Tinggi (3-6 kkal/g),Karbohidrat
+noodles,ingr_0000000062,1.38,0.021,0.25,0.045,Sedang (1-3 kkal/g),Karbohidrat
+bean(seed) ,ingr_0000000063,1.4,0.006,0.24,0.09,Sedang (1-3 kkal/g),Karbohidrat
+alcohol,ingr_0000000064,0.431,0.0,0.036,0.005,Rendah (<1 kkal/g),Karbohidrat
+grape juice,ingr_0000000065,0.67,0.004,0.17,0.006,Rendah (<1 kkal/g),Karbohidrat
+ground beef,ingr_0000000066,3.321,0.295,0.0,0.142,Tinggi (3-6 kkal/g),Lemak
+syrup,ingr_0000000067,2.6,0.001,0.67,0.0,Sedang (1-3 kkal/g),Karbohidrat
+grapefruits,ingr_0000000068,0.42,0.001,0.11,0.008,Rendah (<1 kkal/g),Karbohidrat
+fruit punch,ingr_0000000069,0.45,0.0,0.125,0.0,Rendah (<1 kkal/g),Karbohidrat
+figs,ingr_0000000070,2.75,0.0,0.65,0.025,Sedang (1-3 kkal/g),Karbohidrat
+macaroni and cheese,ingr_0000000071,1.64,0.05,0.23,0.07,Sedang (1-3 kkal/g),Karbohidrat
+kale,ingr_0000000072,0.49,0.007,0.09,0.033,Rendah (<1 kkal/g),Karbohidrat
+radishes,ingr_0000000073,0.16,0.001,0.034,0.007,Rendah (<1 kkal/g),Karbohidrat
+pasta,ingr_0000000074,1.316,0.011,0.248,0.051,Sedang (1-3 kkal/g),Karbohidrat
+refried beans,ingr_0000000075,0.918,0.012,0.152,0.052,Rendah (<1 kkal/g),Karbohidrat
+brisket,ingr_0000000076,1.552,0.072,0.0,0.21,Sedang (1-3 kkal/g),Protein
+almonds,ingr_0000000077,5.781,0.495,0.227,0.224,Tinggi (3-6 kkal/g),Lemak
+protein powder,ingr_0000000078,4.0,0.033,0.1,0.8,Tinggi (3-6 kkal/g),Protein
+okra,ingr_0000000079,0.328,0.002,0.072,0.019,Rendah (<1 kkal/g),Karbohidrat
+turkey bacon,ingr_0000000080,3.797,0.281,0.031,0.291,Tinggi (3-6 kkal/g),Protein
+pickles,ingr_0000000081,0.11,0.002,0.023,0.003,Rendah (<1 kkal/g),Karbohidrat
+pecans,ingr_0000000082,6.9,0.72,0.14,0.09,Sangat Tinggi (>6 kkal/g),Lemak
+muenster cheese,ingr_0000000083,3.675,0.296,0.011,0.239,Tinggi (3-6 kkal/g),Lemak
+brie cheese,ingr_0000000084,3.334,0.28,0.005,0.21,Tinggi (3-6 kkal/g),Lemak
+apple juice,ingr_0000000085,0.46,0.001,0.11,0.001,Rendah (<1 kkal/g),Karbohidrat
+raisin bran,ingr_0000000086,3.14,0.027,0.77,0.08,Tinggi (3-6 kkal/g),Karbohidrat
+coleslaw,ingr_0000000087,1.523,0.097,0.148,0.01,Sedang (1-3 kkal/g),Karbohidrat
+margarine,ingr_0000000088,7.17,0.81,0.007,0.002,Sangat Tinggi (>6 kkal/g),Lemak
+spaghetti,ingr_0000000089,1.58,0.009,0.31,0.06,Sedang (1-3 kkal/g),Karbohidrat
+ground pork,ingr_0000000090,3.93,0.33,0.014,0.23,Tinggi (3-6 kkal/g),Lemak
+herring,ingr_0000000091,0.859,0.059,0.032,0.047,Rendah (<1 kkal/g),Lemak
+wine,ingr_0000000092,0.85,0.0,0.026,0.001,Rendah (<1 kkal/g),Karbohidrat
+alfalfa,ingr_0000000093,0.29,0.007,0.038,0.04,Rendah (<1 kkal/g),Protein
+onions,ingr_0000000094,0.4,0.001,0.09,0.011,Rendah (<1 kkal/g),Karbohidrat
+artichokes,ingr_0000000095,0.47,0.002,0.11,0.033,Rendah (<1 kkal/g),Karbohidrat
+mussels,ingr_0000000096,1.718,0.045,0.07,0.238,Sedang (1-3 kkal/g),Protein
+falafel,ingr_0000000097,3.341,0.178,0.307,0.133,Tinggi (3-6 kkal/g),Karbohidrat
+multigrain bread,ingr_0000000098,2.857,0.092,0.49,0.041,Sedang (1-3 kkal/g),Karbohidrat
+marshmallows,ingr_0000000099,3.18,0.002,0.81,0.018,Tinggi (3-6 kkal/g),Karbohidrat
+oats,ingr_0000000100,3.89,0.069,0.663,0.169,Tinggi (3-6 kkal/g),Karbohidrat
+leeks,ingr_0000000101,0.61,0.003,0.14,0.015,Rendah (<1 kkal/g),Karbohidrat
+snow peas,ingr_0000000102,0.81,0.004,0.14,0.05,Rendah (<1 kkal/g),Karbohidrat
+pretzels,ingr_0000000103,3.803,0.026,0.804,0.101,Tinggi (3-6 kkal/g),Karbohidrat
+strudels,ingr_0000000104,3.182,0.108,0.5,0.05,Tinggi (3-6 kkal/g),Karbohidrat
+grilled chicken,ingr_0000000105,2.262,0.149,0.001,0.226,Sedang (1-3 kkal/g),Protein
+half and half,ingr_0000000106,1.3,0.12,0.043,0.03,Sedang (1-3 kkal/g),Lemak
+mixed nuts,ingr_0000000107,6.069,0.535,0.211,0.206,Sangat Tinggi (>6 kkal/g),Lemak
+spring rolls,ingr_0000000108,1.543,0.08,0.043,0.162,Sedang (1-3 kkal/g),Protein
+french toast,ingr_0000000109,2.292,0.109,0.248,0.078,Sedang (1-3 kkal/g),Karbohidrat
+barbecue sauce,ingr_0000000110,1.72,0.006,0.41,0.008,Sedang (1-3 kkal/g),Karbohidrat
+clams,ingr_0000000111,1.48,0.02,0.051,0.255,Sedang (1-3 kkal/g),Protein
+honeydew melons,ingr_0000000112,0.36,0.001,0.09,0.005,Rendah (<1 kkal/g),Karbohidrat
+ketchup,ingr_0000000113,1.12,0.002,0.26,0.013,Sedang (1-3 kkal/g),Karbohidrat
+polenta,ingr_0000000114,3.7,0.018,0.79,0.07,Tinggi (3-6 kkal/g),Karbohidrat
+lemonade,ingr_0000000115,0.4,0.0,0.1,0.001,Rendah (<1 kkal/g),Karbohidrat
+mayonnaise,ingr_0000000116,6.8,0.75,0.006,0.01,Sangat Tinggi (>6 kkal/g),Lemak
+tacos,ingr_0000000117,2.26,0.13,0.201,0.088,Sedang (1-3 kkal/g),Karbohidrat
+eggnog,ingr_0000000118,0.878,0.042,0.08,0.046,Rendah (<1 kkal/g),Karbohidrat
+tabouli,ingr_0000000119,0.85,0.045,0.107,0.021,Rendah (<1 kkal/g),Karbohidrat
+gelatin,ingr_0000000120,0.618,0.0,0.141,0.012,Rendah (<1 kkal/g),Karbohidrat
+watermelon,ingr_0000000121,0.3,0.002,0.076,0.006,Rendah (<1 kkal/g),Karbohidrat
+garlic,ingr_0000000122,1.49,0.005,0.33,0.064,Sedang (1-3 kkal/g),Karbohidrat
+crawfish,ingr_0000000123,0.77,0.01,0.0,0.16,Rendah (<1 kkal/g),Protein
+walnuts,ingr_0000000124,6.533,0.642,0.139,0.151,Sangat Tinggi (>6 kkal/g),Lemak
+octopus,ingr_0000000125,1.637,0.021,0.044,0.297,Sedang (1-3 kkal/g),Protein
+mustard,ingr_0000000126,0.613,0.033,0.06,0.037,Rendah (<1 kkal/g),Karbohidrat
+pastries,ingr_0000000127,5.508,0.384,0.452,0.072,Tinggi (3-6 kkal/g),Karbohidrat
+egg whites,ingr_0000000128,0.52,0.002,0.007,0.1,Rendah (<1 kkal/g),Protein
+raisins,ingr_0000000129,2.99,0.005,0.79,0.031,Sedang (1-3 kkal/g),Karbohidrat
+rye bread,ingr_0000000130,2.586,0.032,0.482,0.086,Sedang (1-3 kkal/g),Karbohidrat
+dark chocolate,ingr_0000000131,5.75,0.46,0.27,0.06,Tinggi (3-6 kkal/g),Lemak
+croissants,ingr_0000000132,4.062,0.212,0.459,0.08,Tinggi (3-6 kkal/g),Karbohidrat
+shallots,ingr_0000000133,0.2,0.002,0.033,0.015,Rendah (<1 kkal/g),Karbohidrat
+biscuits,ingr_0000000134,3.525,0.162,0.447,0.07,Tinggi (3-6 kkal/g),Karbohidrat
+tilapia,ingr_0000000135,1.288,0.027,0.0,0.261,Sedang (1-3 kkal/g),Protein
+poached eggs,ingr_0000000136,1.425,0.092,0.008,0.125,Sedang (1-3 kkal/g),Protein
+succotash,ingr_0000000137,0.99,0.01,0.2,0.05,Rendah (<1 kkal/g),Karbohidrat
+seafood,ingr_0000000138,2.044,0.081,0.018,0.285,Sedang (1-3 kkal/g),Protein
+egg rolls,ingr_0000000139,1.966,0.045,0.287,0.102,Sedang (1-3 kkal/g),Karbohidrat
+caesar dressing,ingr_0000000140,0.441,0.021,0.043,0.032,Rendah (<1 kkal/g),Karbohidrat
+tuna salad,ingr_0000000141,1.87,0.092,0.092,0.162,Sedang (1-3 kkal/g),Protein
+india pale ale beer,ingr_0000000142,0.556,0.0,0.017,0.003,Rendah (<1 kkal/g),Karbohidrat
+veal,ingr_0000000143,1.72,0.076,0.0,0.244,Sedang (1-3 kkal/g),Protein
+sorbet,ingr_0000000144,1.24,0.005,0.267,0.019,Sedang (1-3 kkal/g),Karbohidrat
+bison,ingr_0000000145,1.79,0.08,0.0,0.25,Sedang (1-3 kkal/g),Protein
+scallops,ingr_0000000146,1.059,0.006,0.059,0.2,Sedang (1-3 kkal/g),Protein
+turkey breast,ingr_0000000147,1.891,0.071,0.0,0.288,Sedang (1-3 kkal/g),Protein
+parmesan cheese,ingr_0000000148,4.307,0.286,0.042,0.384,Tinggi (3-6 kkal/g),Protein
+sushi,ingr_0000000149,1.43,0.004,0.299,0.043,Sedang (1-3 kkal/g),Karbohidrat
+swordfish,ingr_0000000150,1.718,0.079,0.0,0.234,Sedang (1-3 kkal/g),Protein
+agave nectar,ingr_0000000151,3.1,0.005,0.76,0.001,Tinggi (3-6 kkal/g),Karbohidrat
+cabbage,ingr_0000000152,0.21,0.005,0.032,0.013,Rendah (<1 kkal/g),Karbohidrat
+bulgur,ingr_0000000153,3.42,0.013,0.76,0.12,Tinggi (3-6 kkal/g),Karbohidrat
+brown sugar,ingr_0000000154,3.8,0.0,0.98,0.001,Tinggi (3-6 kkal/g),Karbohidrat
+chicken thighs,ingr_0000000155,1.772,0.083,0.0,0.239,Sedang (1-3 kkal/g),Protein
+paella,ingr_0000000156,1.834,0.091,0.141,0.104,Sedang (1-3 kkal/g),Karbohidrat
+colby cheese,ingr_0000000157,3.94,0.313,0.025,0.243,Tinggi (3-6 kkal/g),Lemak
+gumbo,ingr_0000000158,0.867,0.033,0.098,0.041,Rendah (<1 kkal/g),Karbohidrat
+apple cider,ingr_0000000159,0.462,0.001,0.113,0.001,Rendah (<1 kkal/g),Karbohidrat
+chow mein,ingr_0000000160,4.611,0.184,0.676,0.108,Tinggi (3-6 kkal/g),Karbohidrat
+olive oil,ingr_0000000161,8.84,1.0,0.0,0.0,Sangat Tinggi (>6 kkal/g),Lemak
+parsnips,ingr_0000000162,0.75,0.003,0.18,0.012,Rendah (<1 kkal/g),Karbohidrat
+kidney beans,ingr_0000000163,3.33,0.008,0.6,0.24,Tinggi (3-6 kkal/g),Karbohidrat
+chowders,ingr_0000000164,0.99,0.062,0.076,0.031,Rendah (<1 kkal/g),Karbohidrat
+skim milk,ingr_0000000165,0.34,0.001,0.049,0.034,Rendah (<1 kkal/g),Karbohidrat
+grapefruit juice,ingr_0000000166,0.389,0.001,0.091,0.005,Rendah (<1 kkal/g),Karbohidrat
+tamales,ingr_0000000167,1.528,0.06,0.181,0.062,Sedang (1-3 kkal/g),Karbohidrat
+lasagna,ingr_0000000168,1.35,0.05,0.154,0.072,Sedang (1-3 kkal/g),Karbohidrat
+whole wheat bread,ingr_0000000169,2.468,0.033,0.421,0.13,Sedang (1-3 kkal/g),Karbohidrat
+gravy,ingr_0000000170,0.791,0.059,0.052,0.02,Rendah (<1 kkal/g),Lemak
+almond butter,ingr_0000000171,6.086,0.555,0.187,0.209,Sangat Tinggi (>6 kkal/g),Lemak
+cherry pie,ingr_0000000172,2.694,0.122,0.387,0.028,Sedang (1-3 kkal/g),Karbohidrat
+chestnuts,ingr_0000000173,1.308,0.014,0.281,0.021,Sedang (1-3 kkal/g),Karbohidrat
+bread crumbs,ingr_0000000174,3.95,0.051,0.713,0.132,Tinggi (3-6 kkal/g),Karbohidrat
+apple pie,ingr_0000000175,2.367,0.11,0.345,0.018,Sedang (1-3 kkal/g),Karbohidrat
+french dressing,ingr_0000000176,4.532,0.442,0.156,0.007,Tinggi (3-6 kkal/g),Lemak
+tempeh,ingr_0000000177,1.929,0.109,0.093,0.188,Sedang (1-3 kkal/g),Protein
+pies,ingr_0000000178,2.367,0.111,0.345,0.019,Sedang (1-3 kkal/g),Karbohidrat
+eggs,ingr_0000000179,1.555,0.105,0.012,0.125,Sedang (1-3 kkal/g),Protein
+rice noodles,ingr_0000000180,1.09,0.002,0.25,0.009,Sedang (1-3 kkal/g),Karbohidrat
+milk shakes,ingr_0000000181,1.121,0.029,0.18,0.039,Sedang (1-3 kkal/g),Karbohidrat
+soy yogurt,ingr_0000000182,1.014,0.019,0.173,0.037,Sedang (1-3 kkal/g),Karbohidrat
+chips,ingr_0000000183,5.363,0.35,0.529,0.07,Tinggi (3-6 kkal/g),Karbohidrat
+ravioli,ingr_0000000184,0.771,0.015,0.138,0.025,Rendah (<1 kkal/g),Karbohidrat
+collards,ingr_0000000185,0.313,0.006,0.053,0.03,Rendah (<1 kkal/g),Karbohidrat
+green peas,ingr_0000000186,0.774,0.004,0.136,0.05,Rendah (<1 kkal/g),Karbohidrat
+chickpeas,ingr_0000000187,1.64,0.026,0.27,0.09,Sedang (1-3 kkal/g),Karbohidrat
+carrot cake,ingr_0000000188,4.153,0.099,0.786,0.05,Tinggi (3-6 kkal/g),Karbohidrat
+vinegar,ingr_0000000189,0.0,0.0,0.0,0.0,,Lemak
+hamburgers,ingr_0000000190,2.95,0.141,0.241,0.168,Sedang (1-3 kkal/g),Karbohidrat
+cheesecake,ingr_0000000191,3.21,0.223,0.253,0.057,Tinggi (3-6 kkal/g),Karbohidrat
+yam,ingr_0000000192,1.241,0.002,0.294,0.016,Sedang (1-3 kkal/g),Karbohidrat
+hot dogs,ingr_0000000193,2.902,0.255,0.042,0.098,Sedang (1-3 kkal/g),Lemak
+fried rice,ingr_0000000194,1.577,0.022,0.299,0.047,Sedang (1-3 kkal/g),Karbohidrat
+wafers,ingr_0000000195,4.334,0.144,0.726,0.068,Tinggi (3-6 kkal/g),Karbohidrat
+cod,ingr_0000000196,0.847,0.005,0.0,0.189,Rendah (<1 kkal/g),Protein
+salads,ingr_0000000197,1.523,0.097,0.148,0.01,Sedang (1-3 kkal/g),Karbohidrat
+breadsticks,ingr_0000000198,4.083,0.092,0.691,0.123,Tinggi (3-6 kkal/g),Karbohidrat
+swiss cheese,ingr_0000000199,3.799,0.282,0.052,0.276,Tinggi (3-6 kkal/g),Lemak
+buttermilk,ingr_0000000200,0.402,0.009,0.048,0.033,Rendah (<1 kkal/g),Karbohidrat
+blueberries,ingr_0000000201,0.572,0.003,0.144,0.007,Rendah (<1 kkal/g),Karbohidrat
+enchiladas,ingr_0000000202,1.681,0.092,0.158,0.061,Sedang (1-3 kkal/g),Karbohidrat
+chili,ingr_0000000203,0.4,0.004,0.089,0.018,Rendah (<1 kkal/g),Karbohidrat
+pork chops,ingr_0000000204,2.308,0.141,0.0,0.239,Sedang (1-3 kkal/g),Protein
+corn on the cob,ingr_0000000205,1.061,0.024,0.22,0.031,Sedang (1-3 kkal/g),Karbohidrat
+muffins,ingr_0000000206,3.77,0.159,0.533,0.046,Tinggi (3-6 kkal/g),Karbohidrat
+fried chicken,ingr_0000000207,2.461,0.118,0.019,0.304,Sedang (1-3 kkal/g),Protein
+ice cream cones,ingr_0000000208,4.189,0.071,0.79,0.079,Tinggi (3-6 kkal/g),Karbohidrat
+pastrami,ingr_0000000209,1.458,0.058,0.004,0.216,Sedang (1-3 kkal/g),Protein
+chocolate milk,ingr_0000000210,0.831,0.034,0.102,0.032,Rendah (<1 kkal/g),Karbohidrat
+plums,ingr_0000000211,0.457,0.003,0.115,0.007,Rendah (<1 kkal/g),Karbohidrat
+burgers,ingr_0000000212,2.95,0.141,0.241,0.168,Sedang (1-3 kkal/g),Karbohidrat
+pears,ingr_0000000213,0.572,0.001,0.152,0.004,Rendah (<1 kkal/g),Karbohidrat
+seeds,ingr_0000000214,5.582,0.492,0.108,0.309,Tinggi (3-6 kkal/g),Lemak
+squid,ingr_0000000215,1.751,0.07,0.081,0.178,Sedang (1-3 kkal/g),Protein
+tostadas,ingr_0000000216,1.48,0.078,0.132,0.071,Sedang (1-3 kkal/g),Karbohidrat
+lamb,ingr_0000000217,2.941,0.211,0.0,0.247,Sedang (1-3 kkal/g),Protein
+brazil nuts,ingr_0000000218,6.574,0.663,0.121,0.142,Sangat Tinggi (>6 kkal/g),Lemak
+macaroni,ingr_0000000219,3.725,0.015,0.754,0.127,Tinggi (3-6 kkal/g),Karbohidrat
+pita bread,ingr_0000000220,2.75,0.011,0.558,0.088,Sedang (1-3 kkal/g),Karbohidrat
+vegetable oil,ingr_0000000221,8.864,1.0,0.0,0.0,Sangat Tinggi (>6 kkal/g),Lemak
+pine nuts,ingr_0000000222,6.646,0.685,0.126,0.132,Sangat Tinggi (>6 kkal/g),Lemak
+macadamia nuts,ingr_0000000223,7.188,0.75,0.139,0.079,Sangat Tinggi (>6 kkal/g),Lemak
+potato salad,ingr_0000000224,1.429,0.08,0.111,0.028,Sedang (1-3 kkal/g),Karbohidrat
+veggie burgers,ingr_0000000225,1.771,0.061,0.141,0.159,Sedang (1-3 kkal/g),Protein
+pasta sauce,ingr_0000000226,0.292,0.002,0.069,0.013,Rendah (<1 kkal/g),Karbohidrat
+calamari,ingr_0000000227,1.751,0.07,0.081,0.178,Sedang (1-3 kkal/g),Protein
+cornmeal,ingr_0000000228,3.7,0.018,0.793,0.07,Tinggi (3-6 kkal/g),Karbohidrat
+bologna,ingr_0000000229,2.452,0.206,0.007,0.151,Sedang (1-3 kkal/g),Lemak
+frostings,ingr_0000000230,4.217,0.163,0.686,0.0,Tinggi (3-6 kkal/g),Karbohidrat
+deprecated,ingr_0000000231,0.905,0.003,0.234,0.011,Rendah (<1 kkal/g),Karbohidrat
+oysters,ingr_0000000232,1.989,0.128,0.117,0.088,Sedang (1-3 kkal/g),Lemak
+vodka,ingr_0000000233,2.306,0.0,0.0,0.0,Sedang (1-3 kkal/g),Lemak
+smoothies,ingr_0000000234,0.383,0.0,0.084,0.013,Rendah (<1 kkal/g),Karbohidrat
+pecan pie,ingr_0000000235,4.123,0.218,0.525,0.049,Tinggi (3-6 kkal/g),Karbohidrat
+roast beef,ingr_0000000236,1.698,0.059,0.0,0.291,Sedang (1-3 kkal/g),Protein
+hot chocolate,ingr_0000000237,0.77,0.023,0.109,0.035,Rendah (<1 kkal/g),Karbohidrat
+hominy,ingr_0000000238,0.721,0.009,0.143,0.015,Rendah (<1 kkal/g),Karbohidrat
+custard,ingr_0000000239,1.175,0.04,0.172,0.04,Sedang (1-3 kkal/g),Karbohidrat
+smoked salmon,ingr_0000000240,1.173,0.043,0.0,0.184,Sedang (1-3 kkal/g),Protein
+scones,ingr_0000000241,3.525,0.162,0.447,0.07,Tinggi (3-6 kkal/g),Karbohidrat
+tortellini,ingr_0000000242,3.072,0.072,0.47,0.138,Tinggi (3-6 kkal/g),Karbohidrat
+mozzarella cheese,ingr_0000000243,2.776,0.171,0.032,0.28,Sedang (1-3 kkal/g),Protein
+chicken breast,ingr_0000000244,1.652,0.036,0.0,0.311,Sedang (1-3 kkal/g),Protein
+wheat bread,ingr_0000000245,2.468,0.033,0.421,0.13,Sedang (1-3 kkal/g),Karbohidrat
+baked beans,ingr_0000000246,1.529,0.05,0.216,0.057,Sedang (1-3 kkal/g),Karbohidrat
+blueberry pie,ingr_0000000247,2.456,0.119,0.33,0.027,Sedang (1-3 kkal/g),Karbohidrat
+hard boiled eggs,ingr_0000000248,1.555,0.105,0.012,0.125,Sedang (1-3 kkal/g),Protein
+cashews,ingr_0000000249,5.534,0.432,0.309,0.178,Tinggi (3-6 kkal/g),Lemak
+rolls,ingr_0000000250,3.089,0.065,0.521,0.107,Tinggi (3-6 kkal/g),Karbohidrat
+tortilla chips,ingr_0000000251,4.642,0.153,0.737,0.086,Tinggi (3-6 kkal/g),Karbohidrat
+broth,ingr_0000000252,2.64,0.147,0.185,0.165,Sedang (1-3 kkal/g),Karbohidrat
+tahini,ingr_0000000253,5.956,0.535,0.211,0.17,Tinggi (3-6 kkal/g),Lemak
+mashed potatoes,ingr_0000000254,0.907,0.029,0.151,0.017,Rendah (<1 kkal/g),Karbohidrat
+nougat,ingr_0000000255,3.99,0.016,0.924,0.034,Tinggi (3-6 kkal/g),Karbohidrat
+fish oil,ingr_0000000256,9.033,1.01,0.0,0.0,Sangat Tinggi (>6 kkal/g),Lemak
+brownies,ingr_0000000257,4.661,0.288,0.498,0.062,Tinggi (3-6 kkal/g),Karbohidrat
+popcorn,ingr_0000000258,3.745,0.043,0.74,0.11,Tinggi (3-6 kkal/g),Karbohidrat
+corned beef,ingr_0000000259,2.508,0.19,0.005,0.179,Sedang (1-3 kkal/g),Lemak
+iced tea,ingr_0000000260,0.373,0.001,0.093,0.0,Rendah (<1 kkal/g),Karbohidrat
+pumpkins,ingr_0000000261,0.259,0.001,0.065,0.01,Rendah (<1 kkal/g),Karbohidrat
+yogurt,ingr_0000000262,0.589,0.004,0.036,0.1,Rendah (<1 kkal/g),Protein
+mousse,ingr_0000000263,2.249,0.16,0.16,0.041,Sedang (1-3 kkal/g),Lemak
+bagels,ingr_0000000264,2.5,0.015,0.49,0.101,Sedang (1-3 kkal/g),Karbohidrat
+sardines,ingr_0000000265,2.031,0.111,0.0,0.243,Sedang (1-3 kkal/g),Protein
+pot pies,ingr_0000000266,1.982,0.113,0.189,0.049,Sedang (1-3 kkal/g),Karbohidrat
+coconuts,ingr_0000000267,3.537,0.333,0.152,0.033,Tinggi (3-6 kkal/g),Lemak
+soft serve ice creams,ingr_0000000268,2.234,0.13,0.222,0.041,Sedang (1-3 kkal/g),Karbohidrat
+onion rings,ingr_0000000269,4.106,0.253,0.438,0.039,Tinggi (3-6 kkal/g),Karbohidrat
+cocoa,ingr_0000000270,2.237,0.135,0.573,0.198,Sedang (1-3 kkal/g),Karbohidrat
+peaches,ingr_0000000271,0.393,0.003,0.095,0.009,Rendah (<1 kkal/g),Karbohidrat
+cupcakes,ingr_0000000272,3.055,0.036,0.672,0.042,Tinggi (3-6 kkal/g),Karbohidrat
+sandwiches,ingr_0000000273,2.329,0.13,0.179,0.11,Sedang (1-3 kkal/g),Karbohidrat
+trail mix,ingr_0000000274,4.62,0.286,0.454,0.139,Tinggi (3-6 kkal/g),Karbohidrat
+frozen yogurt,ingr_0000000275,1.633,0.059,0.245,0.041,Sedang (1-3 kkal/g),Karbohidrat
+chocolate cake,ingr_0000000276,3.707,0.15,0.534,0.052,Tinggi (3-6 kkal/g),Karbohidrat
+chimichangas,ingr_0000000277,2.441,0.112,0.249,0.112,Sedang (1-3 kkal/g),Karbohidrat
+beer,ingr_0000000278,0.431,0.0,0.036,0.005,Rendah (<1 kkal/g),Karbohidrat
+omelets,ingr_0000000279,1.54,0.117,0.006,0.104,Sedang (1-3 kkal/g),Lemak
+souffle,ingr_0000000280,1.691,0.13,0.06,0.079,Sedang (1-3 kkal/g),Lemak
+edamame,ingr_0000000281,1.22,0.051,0.098,0.11,Sedang (1-3 kkal/g),Protein
+energy drinks,ingr_0000000282,0.459,0.001,0.12,0.003,Rendah (<1 kkal/g),Karbohidrat
+salad dressing,ingr_0000000283,4.799,0.467,0.165,0.008,Tinggi (3-6 kkal/g),Lemak
+ribs,ingr_0000000284,3.513,0.281,0.0,0.227,Tinggi (3-6 kkal/g),Lemak
+trout,ingr_0000000285,1.409,0.06,0.0,0.201,Sedang (1-3 kkal/g),Protein
+romano cheese,ingr_0000000286,3.874,0.273,0.036,0.318,Tinggi (3-6 kkal/g),Protein
+toast,ingr_0000000287,3.131,0.042,0.555,0.13,Tinggi (3-6 kkal/g),Karbohidrat
+empanadas,ingr_0000000288,3.355,0.18,0.312,0.111,Tinggi (3-6 kkal/g),Karbohidrat
+ranch dressing,ingr_0000000289,4.837,0.505,0.068,0.01,Tinggi (3-6 kkal/g),Lemak
+cheddar cheese,ingr_0000000290,4.019,0.33,0.013,0.248,Tinggi (3-6 kkal/g),Lemak
+salt,ingr_0000000291,0.0,0.0,0.0,0.0,,Lemak
+spreads,ingr_0000000292,2.357,0.171,0.12,0.079,Sedang (1-3 kkal/g),Lemak
+sandwich cookies,ingr_0000000293,4.697,0.202,0.704,0.056,Tinggi (3-6 kkal/g),Karbohidrat
+granola,ingr_0000000294,4.693,0.204,0.647,0.1,Tinggi (3-6 kkal/g),Karbohidrat
+provolone cheese,ingr_0000000295,3.519,0.266,0.022,0.253,Tinggi (3-6 kkal/g),Lemak
+sundaes,ingr_0000000296,1.799,0.053,0.302,0.037,Sedang (1-3 kkal/g),Karbohidrat
+pepperoni,ingr_0000000297,4.936,0.438,0.0,0.231,Tinggi (3-6 kkal/g),Lemak
+focaccia,ingr_0000000298,2.496,0.079,0.355,0.089,Sedang (1-3 kkal/g),Karbohidrat
+soy milk,ingr_0000000299,0.534,0.017,0.061,0.033,Rendah (<1 kkal/g),Karbohidrat
+egg yolks,ingr_0000000300,3.228,0.267,0.036,0.159,Tinggi (3-6 kkal/g),Lemak
+english muffins,ingr_0000000301,2.355,0.018,0.458,0.078,Sedang (1-3 kkal/g),Karbohidrat
+pie crust,ingr_0000000302,2.367,0.11,0.345,0.018,Sedang (1-3 kkal/g),Karbohidrat
+chocolate chip cookies,ingr_0000000303,4.874,0.281,0.569,0.058,Tinggi (3-6 kkal/g),Karbohidrat
+puddings,ingr_0000000304,1.197,0.032,0.198,0.032,Sedang (1-3 kkal/g),Karbohidrat
+fudge,ingr_0000000305,4.114,0.103,0.762,0.024,Tinggi (3-6 kkal/g),Karbohidrat
+croutons,ingr_0000000306,4.081,0.067,0.723,0.12,Tinggi (3-6 kkal/g),Karbohidrat
+stuffing,ingr_0000000307,3.854,0.035,0.767,0.11,Tinggi (3-6 kkal/g),Karbohidrat
+lamb chops,ingr_0000000308,2.941,0.211,0.0,0.247,Sedang (1-3 kkal/g),Protein
+rum,ingr_0000000309,2.313,0.0,0.0,0.0,Sedang (1-3 kkal/g),Lemak
+corn chips,ingr_0000000310,5.18,0.281,0.632,0.06,Tinggi (3-6 kkal/g),Karbohidrat
+granola bars,ingr_0000000311,4.712,0.2,0.653,0.1,Tinggi (3-6 kkal/g),Karbohidrat
+pepper,ingr_0000000312,0.4,0.002,0.093,0.02,Rendah (<1 kkal/g),Karbohidrat
+peanut butter,ingr_0000000313,5.895,0.503,0.194,0.251,Tinggi (3-6 kkal/g),Lemak
+sourdough bread,ingr_0000000314,2.889,0.018,0.562,0.119,Sedang (1-3 kkal/g),Karbohidrat
+corn dogs,ingr_0000000315,2.629,0.109,0.32,0.099,Sedang (1-3 kkal/g),Karbohidrat
+roast chicken,ingr_0000000316,2.237,0.13,0.0,0.235,Sedang (1-3 kkal/g),Protein
+flounder,ingr_0000000317,0.703,0.019,0.0,0.124,Rendah (<1 kkal/g),Protein
+flour,ingr_0000000318,3.641,0.01,0.76,0.102,Tinggi (3-6 kkal/g),Karbohidrat
+feta cheese,ingr_0000000319,2.641,0.211,0.042,0.138,Sedang (1-3 kkal/g),Lemak
+black beans,ingr_0000000320,1.32,0.005,0.237,0.089,Sedang (1-3 kkal/g),Karbohidrat
+water,ingr_0000000321,0.0,0.0,0.0,0.0,,Lemak
+garlic bread,ingr_0000000322,3.501,0.167,0.421,0.082,Tinggi (3-6 kkal/g),Karbohidrat
+salami,ingr_0000000323,3.347,0.26,0.024,0.22,Tinggi (3-6 kkal/g),Lemak
+chocolate,ingr_0000000324,5.461,0.314,0.607,0.049,Tinggi (3-6 kkal/g),Karbohidrat
+nectarines,ingr_0000000325,0.442,0.003,0.107,0.011,Rendah (<1 kkal/g),Karbohidrat
+chicken soup,ingr_0000000326,0.355,0.012,0.034,0.025,Rendah (<1 kkal/g),Karbohidrat
+root beer,ingr_0000000327,0.415,0.0,0.108,0.0,Rendah (<1 kkal/g),Karbohidrat
+sugar,ingr_0000000328,3.88,0.0,1.0,0.0,Tinggi (3-6 kkal/g),Karbohidrat
+pate nutrition,ingr_0000000329,3.182,0.281,0.015,0.141,Tinggi (3-6 kkal/g),Lemak
+haddock,ingr_0000000330,0.904,0.006,0.0,0.2,Rendah (<1 kkal/g),Protein
+pancakes,ingr_0000000331,2.266,0.096,0.284,0.063,Sedang (1-3 kkal/g),Karbohidrat
+salmon,ingr_0000000332,1.78,0.08,0.0,0.24,Sedang (1-3 kkal/g),Protein
+potato bread,ingr_0000000333,2.658,0.031,0.469,0.128,Sedang (1-3 kkal/g),Karbohidrat
+white bread,ingr_0000000334,2.649,0.032,0.489,0.091,Sedang (1-3 kkal/g),Karbohidrat
+eggplant,ingr_0000000335,0.248,0.002,0.059,0.01,Rendah (<1 kkal/g),Karbohidrat
+peanuts,ingr_0000000336,5.675,0.492,0.161,0.253,Tinggi (3-6 kkal/g),Lemak
+waffles,ingr_0000000337,2.903,0.143,0.327,0.079,Sedang (1-3 kkal/g),Karbohidrat
+vinaigrette,ingr_0000000338,4.655,0.518,0.026,0.0,Tinggi (3-6 kkal/g),Lemak
+grits,ingr_0000000339,0.59,0.002,0.13,0.014,Rendah (<1 kkal/g),Karbohidrat
+lo mein,ingr_0000000340,1.22,0.024,0.2,0.048,Sedang (1-3 kkal/g),Karbohidrat
+cream,ingr_0000000341,3.363,0.366,0.027,0.028,Tinggi (3-6 kkal/g),Lemak
+turnips,ingr_0000000342,0.217,0.001,0.051,0.007,Rendah (<1 kkal/g),Karbohidrat
+cranberry juice,ingr_0000000343,0.453,0.001,0.111,0.003,Rendah (<1 kkal/g),Karbohidrat
+peach,ingr_0000000344,0.388,0.003,0.095,0.009,Rendah (<1 kkal/g),Karbohidrat
+roast pork,ingr_0000000345,2.918,0.212,0.0,0.235,Sedang (1-3 kkal/g),Protein
+turnover,ingr_0000000346,1.781,0.081,0.256,0.015,Sedang (1-3 kkal/g),Karbohidrat
+baby carrots,ingr_0000000347,0.41,0.002,0.1,0.009,Rendah (<1 kkal/g),Karbohidrat
+egg salad,ingr_0000000348,2.12,0.184,0.024,0.081,Sedang (1-3 kkal/g),Lemak
+mangos,ingr_0000000349,0.606,0.004,0.15,0.008,Rendah (<1 kkal/g),Karbohidrat
+miso soup,ingr_0000000350,0.245,0.012,0.015,0.024,Rendah (<1 kkal/g),Protein
+mackerel,ingr_0000000351,2.62,0.18,0.0,0.24,Sedang (1-3 kkal/g),Protein
+calzones,ingr_0000000352,3.08,0.21,0.13,0.16,Tinggi (3-6 kkal/g),Lemak
+burritos,ingr_0000000353,1.8,0.068,0.23,0.07,Sedang (1-3 kkal/g),Karbohidrat
+soy nuts,ingr_0000000354,4.49,0.22,0.29,0.43,Tinggi (3-6 kkal/g),Protein
+crackers,ingr_0000000355,5.1,0.26,0.61,0.066,Tinggi (3-6 kkal/g),Karbohidrat
+french fries,ingr_0000000356,3.12,0.15,0.41,0.034,Tinggi (3-6 kkal/g),Karbohidrat
+lentils,ingr_0000000357,1.14,0.004,0.2,0.09,Sedang (1-3 kkal/g),Karbohidrat
+mixed vegetables,ingr_0000000358,0.32,0.003,0.069,0.017,Rendah (<1 kkal/g),Karbohidrat
+honey,ingr_0000000359,3.04,0.0,0.82,0.003,Tinggi (3-6 kkal/g),Karbohidrat
+risotto,ingr_0000000360,1.22,0.039,0.16,0.043,Sedang (1-3 kkal/g),Karbohidrat
+roast turkey,ingr_0000000361,1.89,0.074,0.001,0.29,Sedang (1-3 kkal/g),Protein
+ice creams,ingr_0000000362,2.07,0.11,0.24,0.035,Sedang (1-3 kkal/g),Karbohidrat
+meatloaf,ingr_0000000363,1.81,0.099,0.077,0.15,Sedang (1-3 kkal/g),Protein
+sunflower seeds,ingr_0000000364,5.46,0.5,0.15,0.19,Tinggi (3-6 kkal/g),Lemak
+quiche,ingr_0000000365,3.71,0.31,0.099,0.13,Tinggi (3-6 kkal/g),Lemak
+sauerkraut,ingr_0000000366,0.19,0.001,0.043,0.009,Rendah (<1 kkal/g),Karbohidrat
+lime,ingr_0000000367,0.3,0.002,0.105,0.007,Rendah (<1 kkal/g),Karbohidrat
+donuts,ingr_0000000368,4.21,0.23,0.48,0.061,Tinggi (3-6 kkal/g),Karbohidrat
+fritters,ingr_0000000369,2.76,0.2,0.2,0.046,Sedang (1-3 kkal/g),Lemak
+mahi mahi,ingr_0000000370,1.09,0.009,0.0,0.24,Sedang (1-3 kkal/g),Protein
+dumplings,ingr_0000000371,2.3,0.054,0.39,0.062,Sedang (1-3 kkal/g),Karbohidrat
+chilaquiles,ingr_0000000372,1.95,0.12,0.12,0.089,Sedang (1-3 kkal/g),Lemak
+snapper,ingr_0000000373,1.28,0.017,0.0,0.26,Sedang (1-3 kkal/g),Protein
+peas,ingr_0000000374,0.84,0.002,0.16,0.054,Rendah (<1 kkal/g),Karbohidrat
+fruit salad,ingr_0000000375,0.59,0.003,0.15,0.008,Rendah (<1 kkal/g),Karbohidrat
+naan,ingr_0000000376,2.91,0.057,0.5,0.096,Sedang (1-3 kkal/g),Karbohidrat
+quinoa,ingr_0000000377,1.2,0.019,0.21,0.044,Sedang (1-3 kkal/g),Karbohidrat
+catfish,ingr_0000000378,1.44,0.072,0.0,0.18,Sedang (1-3 kkal/g),Protein
+lima beans,ingr_0000000379,1.15,0.004,0.21,0.078,Sedang (1-3 kkal/g),Karbohidrat
+pizza,ingr_0000000380,2.66,0.097,0.33,0.11,Sedang (1-3 kkal/g),Karbohidrat
+gouda cheese,ingr_0000000381,3.56,0.27,0.022,0.25,Tinggi (3-6 kkal/g),Lemak
+cheeseburgers,ingr_0000000382,2.69,0.14,0.2,0.15,Sedang (1-3 kkal/g),Karbohidrat
+italian dressing,ingr_0000000383,2.31,0.205,0.119,0.004,Sedang (1-3 kkal/g),Lemak
+coffee,ingr_0000000384,0.0,0.0,0.0,0.0,,Lemak
+curries,ingr_0000000385,1.04,0.046,0.032,0.12,Sedang (1-3 kkal/g),Protein
+eel,ingr_0000000386,2.36,0.15,0.0,0.24,Sedang (1-3 kkal/g),Protein
+candies,ingr_0000000387,3.94,0.002,0.98,0.0,Tinggi (3-6 kkal/g),Karbohidrat
+fried eggs,ingr_0000000388,1.96,0.15,0.008,0.14,Sedang (1-3 kkal/g),Lemak
+chicken drumsticks,ingr_0000000389,1.84,0.09,0.0,0.24,Sedang (1-3 kkal/g),Protein
+margarita,ingr_0000000390,1.0,0.0,0.099,0.001,Rendah (<1 kkal/g),Karbohidrat
+cobbler,ingr_0000000391,1.99,0.063,0.35,0.02,Sedang (1-3 kkal/g),Karbohidrat
+pepperoni pizza,ingr_0000000392,2.82,0.12,0.32,0.12,Sedang (1-3 kkal/g),Karbohidrat
+teriyaki sauce,ingr_0000000393,0.89,0.0,0.16,0.059,Rendah (<1 kkal/g),Karbohidrat
+gorgonzola cheese,ingr_0000000394,3.53,0.29,0.023,0.21,Tinggi (3-6 kkal/g),Lemak
+string cheese,ingr_0000000395,3.0,0.22,0.022,0.22,Sedang (1-3 kkal/g),Lemak
+wheat beer,ingr_0000000396,0.43,0.0,0.036,0.005,Rendah (<1 kkal/g),Karbohidrat
+gyros,ingr_0000000397,1.85,0.1,0.11,0.12,Sedang (1-3 kkal/g),Protein
+champagne,ingr_0000000398,0.82,0.0,0.026,0.001,Rendah (<1 kkal/g),Karbohidrat
+raisin bread,ingr_0000000399,2.74,0.044,0.52,0.079,Sedang (1-3 kkal/g),Karbohidrat
+cornbread,ingr_0000000400,2.66,0.071,0.44,0.067,Sedang (1-3 kkal/g),Karbohidrat
+wraps,ingr_0000000401,3.25,0.071,0.56,0.087,Tinggi (3-6 kkal/g),Karbohidrat
+tuna,ingr_0000000402,1.3,0.006,0.0,0.29,Sedang (1-3 kkal/g),Protein
+fruit cocktail,ingr_0000000403,0.73,0.001,0.19,0.004,Rendah (<1 kkal/g),Karbohidrat
+potato skins,ingr_0000000404,3.4,0.26,0.15,0.13,Tinggi (3-6 kkal/g),Lemak
+seaweed,ingr_0000000405,0.38,0.003,0.084,0.024,Rendah (<1 kkal/g),Karbohidrat
+sherbet,ingr_0000000406,1.44,0.02,0.3,0.011,Sedang (1-3 kkal/g),Karbohidrat
+horseradish,ingr_0000000407,0.48,0.007,0.11,0.012,Rendah (<1 kkal/g),Karbohidrat
+jambalaya,ingr_0000000408,1.56,0.074,0.15,0.071,Sedang (1-3 kkal/g),Karbohidrat
+greek salad,ingr_0000000409,1.13,0.094,0.047,0.032,Sedang (1-3 kkal/g),Lemak
+goulash,ingr_0000000410,1.07,0.039,0.1,0.076,Sedang (1-3 kkal/g),Karbohidrat
+stews,ingr_0000000411,1.06,0.032,0.082,0.11,Sedang (1-3 kkal/g),Protein
+havarti cheese,ingr_0000000412,3.71,0.3,0.028,0.23,Tinggi (3-6 kkal/g),Lemak
+pilaf,ingr_0000000413,1.592,0.049,0.256,0.025,Sedang (1-3 kkal/g),Karbohidrat
+chutney,ingr_0000000414,1.2,0.08,0.1,0.05,Sedang (1-3 kkal/g),Karbohidrat
+cereal,ingr_0000000415,3.76,0.067,0.73,0.12,Tinggi (3-6 kkal/g),Karbohidrat
+ground chicken,ingr_0000000416,1.89,0.11,0.0,0.23,Sedang (1-3 kkal/g),Protein
+fajitas,ingr_0000000417,2.0,0.079,0.18,0.14,Sedang (1-3 kkal/g),Karbohidrat
+chicken wings,ingr_0000000418,3.28,0.24,0.098,0.17,Tinggi (3-6 kkal/g),Lemak
+hard cider,ingr_0000000419,0.56,0.0,0.059,0.0,Rendah (<1 kkal/g),Karbohidrat
+ice pop,ingr_0000000420,0.79,0.002,0.19,0.0,Rendah (<1 kkal/g),Karbohidrat
+ground turkey,ingr_0000000421,2.58,0.17,0.0,0.25,Sedang (1-3 kkal/g),Protein
+crab,ingr_0000000422,0.83,0.007,0.0,0.18,Rendah (<1 kkal/g),Protein
+plate only,ingr_0000000423,0.0,0.0,0.0,0.0,,Lemak
+prunes,ingr_0000000424,2.4,0.004,0.64,0.022,Sedang (1-3 kkal/g),Karbohidrat
+goat cheese,ingr_0000000425,2.64,0.21,0.0,0.19,Sedang (1-3 kkal/g),Lemak
+tomato soup,ingr_0000000426,0.35,0.002,0.074,0.007,Rendah (<1 kkal/g),Karbohidrat
+muesli,ingr_0000000427,3.52,0.033,0.76,0.11,Tinggi (3-6 kkal/g),Karbohidrat
+white wine,ingr_0000000428,0.82,0.0,0.026,0.001,Rendah (<1 kkal/g),Karbohidrat
+gnocchi,ingr_0000000429,2.01,0.012,0.41,0.06,Sedang (1-3 kkal/g),Karbohidrat
+apricots,ingr_0000000430,0.48,0.004,0.11,0.014,Rendah (<1 kkal/g),Karbohidrat
+licorice,ingr_0000000431,3.5,0.023,0.8,0.026,Tinggi (3-6 kkal/g),Karbohidrat
+red potatoes,ingr_0000000432,0.89,0.001,0.2,0.023,Rendah (<1 kkal/g),Karbohidrat
+roasted potatoes,ingr_0000000433,1.41,0.068,0.18,0.021,Sedang (1-3 kkal/g),Karbohidrat
+sour cream,ingr_0000000434,1.98,0.19,0.046,0.024,Sedang (1-3 kkal/g),Lemak
+jerky,ingr_0000000435,4.1,0.26,0.11,0.33,Tinggi (3-6 kkal/g),Protein
+coffee creamer,ingr_0000000436,1.32,0.099,0.112,0.01,Sedang (1-3 kkal/g),Karbohidrat
+sweet potato,ingr_0000000437,0.76,0.0,0.18,0.01,Rendah (<1 kkal/g),Karbohidrat
+chicken nuggets,ingr_0000000438,3.07,0.2,0.15,0.16,Tinggi (3-6 kkal/g),Lemak
+anchovies,ingr_0000000439,2.1,0.097,0.0,0.29,Sedang (1-3 kkal/g),Protein
+grapes,ingr_0000000440,0.69,0.002,0.18,0.007,Rendah (<1 kkal/g),Karbohidrat
+butter,ingr_0000000441,7.17,0.81,0.001,0.008,Sangat Tinggi (>6 kkal/g),Lemak
+hummus,ingr_0000000442,1.66,0.096,0.14,0.079,Sedang (1-3 kkal/g),Karbohidrat
+crispbread,ingr_0000000443,3.66,0.013,0.82,0.079,Tinggi (3-6 kkal/g),Karbohidrat
+dates,ingr_0000000444,2.82,0.004,0.75,0.025,Sedang (1-3 kkal/g),Karbohidrat
+papayas,ingr_0000000445,0.43,0.003,0.11,0.005,Rendah (<1 kkal/g),Karbohidrat
+stout beer,ingr_0000000446,0.45,0.0,0.015,0.002,Rendah (<1 kkal/g),Karbohidrat
+nutrition bars,ingr_0000000447,4.0,0.098,0.4,0.38,Tinggi (3-6 kkal/g),Karbohidrat
+jalapenos,ingr_0000000448,0.29,0.004,0.065,0.009,Rendah (<1 kkal/g),Karbohidrat
+cappuccino,ingr_0000000449,0.42,0.016,0.042,0.026,Rendah (<1 kkal/g),Karbohidrat
+buns,ingr_0000000450,2.79,0.039,0.5,0.098,Sedang (1-3 kkal/g),Karbohidrat
+taco shells,ingr_0000000451,4.76,0.22,0.63,0.064,Tinggi (3-6 kkal/g),Karbohidrat
+maple syrup,ingr_0000000452,2.6,0.001,0.65,0.001,Sedang (1-3 kkal/g),Karbohidrat
+deprecated,ingr_0000000453,0.52,0.002,0.003,0.14,Rendah (<1 kkal/g),Protein
+rice cakes,ingr_0000000454,3.885,0.028,0.81,0.082,Tinggi (3-6 kkal/g),Karbohidrat
+cookies,ingr_0000000455,4.92,0.25,0.65,0.051,Tinggi (3-6 kkal/g),Karbohidrat
+barley,ingr_0000000456,1.23,0.004,0.28,0.023,Sedang (1-3 kkal/g),Karbohidrat
+sun dried tomatoes,ingr_0000000457,2.58,0.03,0.56,0.14,Sedang (1-3 kkal/g),Karbohidrat
+deprecated,ingr_0000000458,0.3,0.001,0.076,0.006,Rendah (<1 kkal/g),Karbohidrat
+cereal bars,ingr_0000000459,3.42,0.009,0.78,0.059,Tinggi (3-6 kkal/g),Karbohidrat
+nectar,ingr_0000000460,0.316,0.0,0.082,0.066,Rendah (<1 kkal/g),Karbohidrat
+samosas,ingr_0000000461,2.62,0.17,0.24,0.035,Sedang (1-3 kkal/g),Karbohidrat
+pork,ingr_0000000462,2.38,0.14,0.0,0.26,Sedang (1-3 kkal/g),Protein
+beets,ingr_0000000463,0.44,0.002,0.1,0.017,Rendah (<1 kkal/g),Karbohidrat
+baked potatoes,ingr_0000000464,0.93,0.001,0.21,0.025,Rendah (<1 kkal/g),Karbohidrat
+american cheese,ingr_0000000465,3.12,0.23,0.088,0.17,Tinggi (3-6 kkal/g),Lemak
+pistachios,ingr_0000000466,5.69,0.46,0.28,0.21,Tinggi (3-6 kkal/g),Lemak
+relish,ingr_0000000467,1.3,0.005,0.35,0.004,Sedang (1-3 kkal/g),Karbohidrat
+camembert cheese,ingr_0000000468,3.0,0.24,0.005,0.2,Sedang (1-3 kkal/g),Lemak
+carp,ingr_0000000469,1.28,0.027,0.0,0.26,Sedang (1-3 kkal/g),Protein
+deprecated,ingr_0000000470,0.93,0.001,0.21,0.025,Rendah (<1 kkal/g),Karbohidrat
+cherry tomatoes,ingr_0000000471,0.18,0.002,0.039,0.009,Rendah (<1 kkal/g),Karbohidrat
+couscous,ingr_0000000472,1.12,0.002,0.23,0.038,Sedang (1-3 kkal/g),Karbohidrat
+cranberries,ingr_0000000473,0.46,0.001,0.12,0.005,Rendah (<1 kkal/g),Karbohidrat
+quesadillas,ingr_0000000474,3.68,0.23,0.24,0.16,Tinggi (3-6 kkal/g),Karbohidrat
+salsa,ingr_0000000475,0.29,0.002,0.066,0.015,Rendah (<1 kkal/g),Karbohidrat
+almond milk,ingr_0000000476,0.23,0.01,0.032,0.004,Rendah (<1 kkal/g),Karbohidrat
+light beer,ingr_0000000477,0.29,0.0,0.016,0.002,Rendah (<1 kkal/g),Karbohidrat
+sweet rolls,ingr_0000000478,2.73,0.063,0.46,0.086,Sedang (1-3 kkal/g),Karbohidrat
+challah,ingr_0000000479,2.87,0.06,0.48,0.095,Sedang (1-3 kkal/g),Karbohidrat
+ice cream soda,ingr_0000000480,0.51,0.0,0.13,0.0,Rendah (<1 kkal/g),Karbohidrat
+flatbread,ingr_0000000481,2.75,0.012,0.56,0.091,Sedang (1-3 kkal/g),Karbohidrat
+rice,ingr_0000000482,1.3,0.003,0.28,0.027,Sedang (1-3 kkal/g),Karbohidrat
+water chestnuts,ingr_0000000483,0.3,0.001,0.068,0.009,Rendah (<1 kkal/g),Karbohidrat
+chicken salad,ingr_0000000484,2.27,0.16,0.029,0.17,Sedang (1-3 kkal/g),Protein
+zucchini,ingr_0000000485,0.15,0.004,0.027,0.011,Rendah (<1 kkal/g),Karbohidrat
+cakes,ingr_0000000486,3.91,0.18,0.56,0.03,Tinggi (3-6 kkal/g),Karbohidrat
+crepes,ingr_0000000487,1.65,0.083,0.16,0.059,Sedang (1-3 kkal/g),Karbohidrat
+mexican cheese,ingr_0000000488,3.58,0.29,0.018,0.24,Tinggi (3-6 kkal/g),Lemak
+lobster,ingr_0000000489,1.43,0.019,0.031,0.26,Sedang (1-3 kkal/g),Protein
+tea,ingr_0000000490,0.01,0.0,0.003,0.0,Rendah (<1 kkal/g),Karbohidrat
+nachos,ingr_0000000491,2.24,0.17,0.048,0.12,Sedang (1-3 kkal/g),Lemak
+taco salad,ingr_0000000492,1.57,0.085,0.14,0.07,Sedang (1-3 kkal/g),Karbohidrat
+lager,ingr_0000000493,0.43,0.0,0.036,0.005,Rendah (<1 kkal/g),Karbohidrat
+jams,ingr_0000000494,2.78,0.001,0.69,0.004,Sedang (1-3 kkal/g),Karbohidrat
+cream cheese,ingr_0000000495,3.5,0.34,0.055,0.062,Tinggi (3-6 kkal/g),Lemak
+capers,ingr_0000000496,0.23,0.009,0.049,0.024,Rendah (<1 kkal/g),Karbohidrat
+halibut,ingr_0000000497,1.11,0.016,0.0,0.23,Sedang (1-3 kkal/g),Protein
+orange juice,ingr_0000000498,0.47,0.001,0.11,0.007,Rendah (<1 kkal/g),Karbohidrat
+latte,ingr_0000000499,0.44,0.017,0.044,0.029,Rendah (<1 kkal/g),Karbohidrat
+taquitos,ingr_0000000500,2.86,0.13,0.34,0.093,Sedang (1-3 kkal/g),Karbohidrat
+cherries,ingr_0000000501,0.63,0.002,0.16,0.011,Rendah (<1 kkal/g),Karbohidrat
+milk,ingr_0000000502,0.51,0.019,0.05,0.035,Rendah (<1 kkal/g),Karbohidrat
+applesauce,ingr_0000000503,0.68,0.002,0.17,0.002,Rendah (<1 kkal/g),Karbohidrat
+vegetable juice,ingr_0000000504,0.22,0.003,0.039,0.009,Rendah (<1 kkal/g),Karbohidrat
+meatballs,ingr_0000000505,2.86,0.22,0.081,0.14,Sedang (1-3 kkal/g),Lemak
+pinto beans,ingr_0000000506,1.43,0.007,0.26,0.09,Sedang (1-3 kkal/g),Karbohidrat
+mandarin oranges,ingr_0000000507,0.53,0.003,0.13,0.008,Rendah (<1 kkal/g),Karbohidrat
+soy sauce,ingr_0000000508,0.53,0.006,0.049,0.081,Rendah (<1 kkal/g),Protein
+tempura,ingr_0000000509,1.05,0.039,0.11,0.065,Sedang (1-3 kkal/g),Karbohidrat
+chicken apple sausage,ingr_0000000510,1.6,0.1,0.03,0.14,Sedang (1-3 kkal/g),Protein
+spinach (cooked),ingr_0000000511,0.23,0.0,0.04,0.03,Rendah (<1 kkal/g),Karbohidrat
+kimchi,ingr_0000000512,0.3,0.001,0.057,0.016,Rendah (<1 kkal/g),Karbohidrat
+millet,ingr_0000000513,1.19,0.01,0.237,0.035,Sedang (1-3 kkal/g),Karbohidrat
+wheat berry,ingr_0000000514,0.91,0.005,0.191,0.042,Rendah (<1 kkal/g),Karbohidrat
+arugula,ingr_0000000515,0.25,0.007,0.037,0.026,Rendah (<1 kkal/g),Karbohidrat
+rosemary,ingr_0000000516,1.31,0.057,0.2,0.029,Sedang (1-3 kkal/g),Karbohidrat
+chard,ingr_0000000517,0.19,0.002,0.037,0.018,Rendah (<1 kkal/g),Karbohidrat
+thyme,ingr_0000000518,1.01,0.017,0.24,0.06,Sedang (1-3 kkal/g),Karbohidrat
+oregano,ingr_0000000519,2.7,0.04,0.69,0.09,Sedang (1-3 kkal/g),Karbohidrat
+lemon juice,ingr_0000000520,0.17,0.0,0.056,0.004,Rendah (<1 kkal/g),Karbohidrat
+basil,ingr_0000000521,0.24,0.0,0.02,0.04,Rendah (<1 kkal/g),Protein
+tatsoi,ingr_0000000522,0.22,0.003,0.039,0.022,Rendah (<1 kkal/g),Karbohidrat
+cilantro,ingr_0000000523,0.228,0.005,0.037,0.022,Rendah (<1 kkal/g),Karbohidrat
+parsley,ingr_0000000524,0.371,0.008,0.064,0.029,Rendah (<1 kkal/g),Karbohidrat
+bok choy,ingr_0000000525,0.13,0.002,0.022,0.015,Rendah (<1 kkal/g),Karbohidrat
+mustard greens,ingr_0000000526,0.27,0.004,0.047,0.029,Rendah (<1 kkal/g),Karbohidrat
+chive,ingr_0000000527,0.3,0.007,0.044,0.033,Rendah (<1 kkal/g),Karbohidrat
+celery root,ingr_0000000528,0.42,0.003,0.092,0.015,Rendah (<1 kkal/g),Karbohidrat
+chayote squash,ingr_0000000529,0.24,0.005,0.051,0.006,Rendah (<1 kkal/g),Karbohidrat
+endive,ingr_0000000530,0.17,0.002,0.034,0.013,Rendah (<1 kkal/g),Karbohidrat
+pumpkin seeds,ingr_0000000531,4.46,0.19,0.54,0.19,Tinggi (3-6 kkal/g),Karbohidrat
+pesto,ingr_0000000532,5.62,0.549,0.08,0.121,Tinggi (3-6 kkal/g),Lemak
+orzo,ingr_0000000533,2.25,0.009,0.458,0.079,Sedang (1-3 kkal/g),Karbohidrat
+country rice,ingr_0000000534,1.5204,0.068,0.316,0.0386,Sedang (1-3 kkal/g),Karbohidrat
+green onions,ingr_0000000535,0.32,0.002,0.07,0.018,Rendah (<1 kkal/g),Karbohidrat
+banana with peel,ingr_0000000536,0.556,0.002,0.144,0.007,Rendah (<1 kkal/g),Karbohidrat
+orange with peel,ingr_0000000537,0.294,0.001,0.075,0.006,Rendah (<1 kkal/g),Karbohidrat
+jicama,ingr_0000000538,0.38,0.001,0.09,0.007,Rendah (<1 kkal/g),Karbohidrat
+nopales,ingr_0000000539,0.16,0.001,0.033,0.014,Rendah (<1 kkal/g),Karbohidrat
+ginger,ingr_0000000540,0.8,0.008,0.18,0.018,Rendah (<1 kkal/g),Karbohidrat
+tomatillo,ingr_0000000541,0.32,0.01,0.06,0.01,Rendah (<1 kkal/g),Karbohidrat
+white beans,ingr_0000000542,1.39,0.004,0.251,0.097,Sedang (1-3 kkal/g),Karbohidrat
+chia seeds,ingr_0000000543,4.86,0.31,0.42,0.17,Tinggi (3-6 kkal/g),Karbohidrat
+corn starch,ingr_0000000544,3.8,0.0005,0.914,0.003,Tinggi (3-6 kkal/g),Karbohidrat
+greek yogurt,ingr_0000000545,0.59,0.004,0.036,0.1,Rendah (<1 kkal/g),Protein
+balsamic vinegar,ingr_0000000546,0.88,0.0,0.17,0.005,Rendah (<1 kkal/g),Karbohidrat
+corn nuts,ingr_0000000547,4.36,0.14,0.72,0.09,Tinggi (3-6 kkal/g),Karbohidrat
+coconut milk,ingr_0000000548,2.3,0.24,0.06,0.023,Sedang (1-3 kkal/g),Lemak
+pizza dough,ingr_0000000549,2.355,0.047,0.417,0.054,Sedang (1-3 kkal/g),Karbohidrat
+fennel,ingr_0000000550,0.31,0.002,0.07,0.012,Rendah (<1 kkal/g),Karbohidrat
+pizza sauce,ingr_0000000551,0.29,0.002,0.07,0.013,Rendah (<1 kkal/g),Karbohidrat
+pomegranate,ingr_0000000552,0.83,0.012,0.19,0.017,Rendah (<1 kkal/g),Karbohidrat
+nut cheese,ingr_0000000553,2.1,0.101,0.04,0.256,Sedang (1-3 kkal/g),Protein
+soy sausage,ingr_0000000554,2.02,0.144,0.063,0.16,Sedang (1-3 kkal/g),Protein
+oil,ingr_0000000555,8.864,1.0,0.0,0.0,Sangat Tinggi (>6 kkal/g),Lemak
